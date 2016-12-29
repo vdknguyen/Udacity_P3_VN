@@ -1,9 +1,5 @@
-Quality of Code  
-  Is the code functional?  
-    Model will run on simulator. On my machine, I am able to update the steering angle several times a second. Adjust speed accordingly if machine perfomance differs.  
-  Is code usable and readable?
-    The code will run without error if it has the correct path to the data csv. Comments about the code will follow below.  
+Summary of previous attempts:  
   
-Model Architecture and Training Stategy  
-  Hi
+I first tried collecting my own training data, but I only had a keyboard and mouse, and I was not very careful with recovery.  
+Then, I switched to using the Udacity training set, but only the center camera.
 
